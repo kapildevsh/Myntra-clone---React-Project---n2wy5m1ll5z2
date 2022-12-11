@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5db8c4e.css",
+    "main.js": "/static/js/main.a820072b.js",
+    "static/media/myntra.png": "/static/media/myntra.600ce9d00061ee0900e2.png",
+    "index.html": "/index.html",
+    "main.f5db8c4e.css.map": "/static/css/main.f5db8c4e.css.map",
+    "main.a820072b.js.map": "/static/js/main.a820072b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5db8c4e.css",
+    "static/js/main.a820072b.js"
+  ]
+}

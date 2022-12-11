@@ -1,0 +1,25 @@
+.image-left{
+	width: 60%;
+	display: flex;
+	flex-wrap: wrap;
+	/* border: solid 1px red; */
+}
+.content-image {
+	 /* width: 50%; */
+    /* border: solid 1px red; */
+    margin-right: 5px;
+	margin-bottom: 2px;
+    /* height: 300px; */
+	overflow: hidden;
+}
+
+.image-detailed{
+	/* height: fit-content; */
+	width: 370px;
+	transition: all .3s ease-in-out;
+	cursor:zoom-in;
+}
+
+.image-detailed:hover{
+	transform: scale(1.4);
+}
